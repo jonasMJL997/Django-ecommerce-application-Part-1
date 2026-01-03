@@ -1,0 +1,5 @@
+Django>=5.0.0,<6.0.0
+mysqlclient>=2.1.0  # For MariaDB/MySQL support (optional, only if using MariaDB)
+Pillow>=10.0.0  # Required for image handling
+
+
